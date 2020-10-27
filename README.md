@@ -1,6 +1,6 @@
 # stripe-payment-app
 
-Simple payment gate using:
+<strong>Simple payment gate using:</strong>
 
 -PHP
 
@@ -8,7 +8,7 @@ Simple payment gate using:
 
 -Stripe 
 
-Demo:
+<strong>Demo:</strong>
 
 -Pay page: http://stripe-payment-app.rf.gd
 
