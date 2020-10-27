@@ -3,7 +3,9 @@
 Simple payment gate using:
 
 -PHP
+
 -MySQL to store customers data and transaction data
+
 -Stripe 
 
 Demo:
