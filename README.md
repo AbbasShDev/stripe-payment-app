@@ -16,3 +16,9 @@
 
 -Customers page: http://stripe-payment-app.rf.gd/customers.php
 
+# DON'T FORGET TO FOLLOW ME ON
+
+<ul>        
+  <li><a href="https://twitter.com/AbbasShDev" target="_blank">Twitter</a></li>
+  <li><a href="https://www.linkedin.com/in/abbas-alshaqaq/" target="_blank">Linkedin</a></li>
+</ul>
